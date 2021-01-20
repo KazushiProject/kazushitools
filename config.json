@@ -1,0 +1,24 @@
+{
+
+    "login": { 
+     
+        "token": "TOKEN ICI"
+
+    },
+    "bot": { 
+        "owner": "778621102216839189",
+        "dev": [
+            "<@778621102216839189>"
+          
+        ],
+
+        
+        "clientid": "778621102216839189",
+         "version": "Kazushi tools ",
+         "support": "❌",
+         "image": "https://cdn.discordapp.com/attachments/800101831710605325/801236892695265301/sticker.webp",
+         "fhouther" : "Kazushi Tools • version: Kazushi bot • Fin du bot"
+          
+
+    }
+}
